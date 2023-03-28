@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Carlos Jesús</h1>
 <h3 align="center">Soy apasionado al desarrollo web FrontEnd</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Estoy aprendiendo actualmente **React**
 
 - 👨‍💻 PortFolio: [https://carlosjesus954.github.io/portfolio.github.io/](https://carlosjesus954.github.io/portfolio.github.io/)
 
